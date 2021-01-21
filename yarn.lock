@@ -5039,10 +5039,10 @@ ignore@^3.3.3:
   resolved "https://registry.npm.taobao.org/ignore/download/ignore-3.3.10.tgz#0a97fb876986e8081c631160f8f9f389157f0043"
   integrity sha1-Cpf7h2mG6AgcYxFg+PnziRV/AEM=
 
-immer@5.2.x:
-  version "5.2.1"
-  resolved "https://registry.npm.taobao.org/immer/download/immer-5.2.1.tgz?cache=0&sync_timestamp=1581627913116&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fimmer%2Fdownload%2Fimmer-5.2.1.tgz#7d4f74c242178e87151d595f48db1b5c51580485"
-  integrity sha1-fU90wkIXjocVHVlfSNsbXFFYBIU=
+immer@8.0.x:
+  version "8.0.1"
+  resolved "https://registry.yarnpkg.com/immer/-/immer-8.0.1.tgz#9c73db683e2b3975c424fb0572af5889877ae656"
+  integrity sha512-aqXhGP7//Gui2+UrEtvxZxSquQVXTpZ7KDxfCcKAF3Vysvw0CViVaW9RZ1j1xlIYqaaaipBoqdqeibkc18PNvA==
 
 immutable@^3.7.4:
   version "3.8.2"
